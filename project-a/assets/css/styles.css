@@ -1,0 +1,12 @@
+body {
+    background: #ffa;
+    font-size: 30px;
+}
+
+.medium {
+    width: 400px;
+}
+
+.small {
+    width: 200px;
+}
