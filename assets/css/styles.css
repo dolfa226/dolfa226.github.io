@@ -1,20 +1,7 @@
 body {
-    background: #ffa;
-    font-size: 30px;
+    background:#f00;
 }
 
-small { 
-        width: 200px;
-}
-
-medium { 
-    width: 200px;
-}
-
-.header {
-    background: #0f0;
-}
-
-.purple {
-    background:#B200FF
+.column {
+    bacground: #ff0;
 }
