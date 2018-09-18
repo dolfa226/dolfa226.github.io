@@ -4,12 +4,19 @@ body {
     font-size: 0;
 }
 
-.column {
-    bacground: #ff0;
+.column-1 {
+    background: #ff0;
     width: 130px;
     margin: 0 15px 0 15px;
     display: inline-block;
     font-size: 14px;
+}
+
+.column-2 {
+    width: 290p;
+    background: #ffff00;
+    font-size: 14px;
+    display: inline-block;
 }
 
 .wrapper {
