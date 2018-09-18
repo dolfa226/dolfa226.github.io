@@ -1,7 +1,15 @@
 body {
     background:#f00;
+    margin: 0;
 }
 
 .column {
     bacground: #ff0;
+    
+}
+
+.wrapper {
+    width: 960px;
+    margin: 0 auto 0 auto; 
+    background: #0f0;
 }

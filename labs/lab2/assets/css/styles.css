@@ -1,20 +1,19 @@
 body {
-    background: #ffa;
-    font-size: 30px;
+    background:#f00;
+    margin: 0;
+    font-size: 0;
 }
 
-small { 
-        width: 200px;
+.column {
+    bacground: #ff0;
+    width: 130px;
+    margin: 0 15px 0 15px;
+    display: inline-block;
+    font-size: 14px;
 }
 
-medium { 
-    width: 200px;
-}
-
-.header {
+.wrapper {
+    width: 960px;
+    margin: 0 auto 0 auto; 
     background: #0f0;
-}
-
-.purple {
-    background:#B200FF
 }
