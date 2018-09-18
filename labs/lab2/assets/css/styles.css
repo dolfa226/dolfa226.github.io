@@ -1,23 +1,26 @@
+* {box-sizing: border-box; }
+
 body {
     background:#f00;
     margin: 0;
     font-size: 0;
 }
 
-.column-1 {
+.c {
     background: #ff0;
-    width: 130px;
-    margin: 0 15px 0 15px;
+    margin: 0 15px 100px 15px;
     display: inline-block;
     font-size: 14px;
 }
 
-.column-2 {
-    width: 290p;
-    background: #ffff00;
-    font-size: 14px;
-    display: inline-block;
-}
+.c1 { width: 130px; }
+.c2 { width: 290px; }
+.c3 { width: 450px; }
+.c4 { width: 610px; }
+.c5 { width: 770px; }
+.c6 { width: 930px; }
+
+img { width: 100%; }
 
 .wrapper {
     width: 960px;
