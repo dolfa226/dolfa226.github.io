@@ -1,0 +1,18 @@
+body {
+    background: #C8D9D6;
+    font-size: 18px;
+    font-family: Didot; 
+}
+
+.medium {
+    width: 400px;
+}
+
+img {
+    max-width: 50%;
+    height: auto;
+}
+
+.small {
+    width: 200px;
+}
