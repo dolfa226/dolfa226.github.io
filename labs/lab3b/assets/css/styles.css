@@ -3,78 +3,77 @@
     vertical-align: top;
 }
 
-
-body {
-    background:#ff0;
-    margin: 0px;
-    font-size: 20px;
-    font-family: 'Notable', Helvetica, Arial, sans-serif;
+.yellow {
+    width: 768px;
+    height: 768px;
+    background: #F8E71C;
 }
 
-.square {
-    color: #fff;
-    padding: 20px;
-    width: 300px;
-    height: 300px;
-    background:#00f;
-}
-
-.circle {
-    width: 50px;
-    height: 50px;
-    background: #f00; 
-    border-radius: 100%; 
-}
-
-.rel { 
-    position: relative; 
-    top: -10px;
+.blue {
+    width: 568px;
+    height: 568px;
+    background: #202665;
+    position: relative;
+    top: 100px;
+    bottom: 100px;
     left: 100px;
-}
-.abs { 
-    position: absolute; 
-    top: 0px; 
-    left: 0px;
-}
-.fix { 
-    position: fixed; 
-    top: 0px;
-    right: 0px;
+    right:100px;
 }
 
-.byline {
-    width: 50px;
-    height: 50px;
-    background: #f1f1f1;
-    padding: 20px;
-
-}
-
-.avatar {
-    width: 50px;
-    height: 50px;
-    background: #fff;
-    border-radius: 100%;
-    display: inline-block;
-    margin: 0 5px 0 0; 
+.green {
+    width: 368px;
+    height: 368px;
+    background: #009E4F;
     position: relative;
+    top: 100px;
+    bottom: 100px;
+    left: 100px;
+    right: 100px;
 }
 
-.name {
+.red1 {
+    width: 328px;
+    height: 67px;
+    background: #ED2025;
     position: relative;
-    top: 10px;
+    top: 20px;
+    bottom: 256px;
+    left: 20px;
+    right: 20px;
 }
 
-.initials {
-    font-size: 14px;
-    line-height: 1;
-    color: #666;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+.red2 {
+    width: 328px;
+    height: 67px;
+    background: #ED2025;
+    position: relative;
+    top: 87px;
 }
 
+.red3 {
+    width: 328px;
+    height: 67px;
+    background: #ED2025;
+    position: relative;
+    top: 87px;
+}
+
+.red4 {
+    width: 328px;
+    height: 67px;
+    background: #ED2025;
+    position: relative;
+    top: 87px;
+}
+
+.red {
+    width: 768px;
+    height: 100px;
+    background: #D0021B;
+    position: relative;
+    top: 187px;
+    left: -220px;
+}
 
 /* Positioning */
 /* Static */
