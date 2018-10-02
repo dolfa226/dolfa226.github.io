@@ -2,6 +2,7 @@ body {
     background: #FFFEED;
     font-size: 18px;
     font-family: Didot; 
+    text-align: center;
 }
 
 
@@ -10,11 +11,13 @@ body {
     width: 600px; 
     height: auto;
     position: relative;
-    margin: 10px 312px 0 312px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 img {
     width: 75%;
     position: relative;
-    margin: 5px;
+    margin-left: auto;
+    margin-right: auto;
 }
