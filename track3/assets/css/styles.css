@@ -4,7 +4,17 @@ body {
     font-family: Didot; 
 }
 
-img {
-    width: 25%;
+
+.rectangle {
+    background: #FFFFFF;
+    width: 600px; 
+    height: auto;
+    position: relative;
+    margin: 10px 312px 0 312px;
 }
 
+img {
+    width: 75%;
+    position: relative;
+    margin: 5px;
+}
