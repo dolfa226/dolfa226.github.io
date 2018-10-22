@@ -1,0 +1,51 @@
+.dunk {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate (-50%,-50%);
+    font-size: 190px;
+    font-family: helvetica;
+    color: #ffffff;
+
+}
+
+.dunk1 {
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    transform: translate (-40%,-40%);
+    font-size: 175px;
+    font-family: helvetica;
+    color: #ffffff;
+
+}
+.dunk2 {
+    position: absolute;
+    top: 30%;
+    left: 30%;
+    transform: translate (-30%,-30%);
+    font-size: 125px;
+    font-family: helvetica;
+    color: #ffffff;
+
+}
+.dunk3 {
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    transform: translate (-20%,-20%);
+    font-size: 100px;
+    font-family: helvetica;
+    color: #ffffff;
+
+}
+.dunk4 {
+    position: absolute;
+    top: 15%;
+    left: 15%;
+    transform: translate (-15%,-15%);
+    font-size: 75px;
+    font-family: helvetica;
+    color: #ffffff;
+
+}
