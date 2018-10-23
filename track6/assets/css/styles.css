@@ -10,7 +10,7 @@
 }
 
 .chop1 {
-    position: absolute;
+    position: fixed;
     top: 30%;
     left: 50%;
     transform: translate (-50%,-50%);
@@ -32,7 +32,7 @@
 }
 
 .chop3 {
-    position: absolute;
+    position: fixed;
     top: 50%;
     left: 50%;
     transform: translate (-50%,-50%);
@@ -54,7 +54,7 @@
 }
 
 .chop5 {
-    position: absolute;
+    position: fixed;
     top: 70%;
     left: 50%;
     transform: translate (-50%,-50%);
@@ -65,8 +65,7 @@
 }
 
 .img {
-    min-width: 1024px;
-    min-height: auto;
+    min-width: 100%;
     left: 1000px;
 }
 
