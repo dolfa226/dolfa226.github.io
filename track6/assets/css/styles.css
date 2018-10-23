@@ -1,15 +1,72 @@
-body {
-    background: #0000;
-    font-size: 18px;
-    font-family: Didot; 
-    text-align: center;
+.chop1 {
+    position: absolute;
+    top: 5%;
+    left: 50%;
+    transform: translate (-50%,-50%);
+    font-size: 190px;
+    font-family: helvetica;
+    color: #000000;
+
 }
 
-img {
-    width: 100%;
-    height: auto;
-    position: relative;
+.chop1 {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate (-50%,-50%);
+    font-size: 190px;
+    font-family: helvetica;
+    color: #000000;
+
 }
 
+.chop2 {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate (-50%,-50%);
+    font-size: 190px;
+    font-family: helvetica;
+    color: #000000;
 
+}
+
+.chop3 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate (-50%,-50%);
+    font-size: 190px;
+    font-family: helvetica;
+    color: #000000;
+
+}
+
+.chop4 {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate (-50%,-50%);
+    font-size: 190px;
+    font-family: helvetica;
+    color: #000000;
+
+}
+
+.chop5 {
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate (-50%,-50%);
+    font-size: 190px;
+    font-family: helvetica;
+    color: #000000;
+
+}
+
+.img {
+    min-width: 1024px;
+    min-height: auto;
+    left: 1000px;
+}
 
