@@ -8,14 +8,14 @@
 
 .line1 {
     position: absolute;
-    top: 20%;
+    top: 9%;
     left: 50%;
     color: #ffffff;
     font-size: 100pt;
 }
 .line2 {
     position: absolute;
-    top: 25%;
+    top: 20%;
     left: 50%;
     color: #ffffff;
     font-size: 80pt;
@@ -38,7 +38,7 @@
 }
 .line5 {
     position: absolute;
-    top: 50%;;
+    top: 48%;;
     left: 50%;
     color: #ffffff;
     font-size: 55pt;
@@ -46,7 +46,7 @@
 
 .line6 {
     position: absolute;
-    top: 60%;;
+    top: 57%;
     left: 50%;
     color: #ffffff;
     font-size: 35pt;
@@ -54,7 +54,7 @@
 
 .line7 {
     position: absolute;
-    top: 70%;;
+    top: 64%;
     left: 50%;
     color: #ffffff;
     font-size: 20pt;
@@ -62,7 +62,7 @@
 
 .line8 {
     position: absolute;
-    top: 80%;;
+    top: 70%;;
     left: 50%;
     color: #ffffff;
     font-size: 15pt;
@@ -70,7 +70,7 @@
 
 .line9 {
     position: absolute;
-    top: 90%;;
+    top: 77%;;
     left: 50%;
     color: #ffffff;
     font-size: 10pt;
@@ -78,7 +78,7 @@
 
 .line10 {
     position: absolute;
-    top: 90%;;
+    top: 83%;;
     left: 50%;
     color: #ffffff;
     font-size: 8pt;
@@ -86,7 +86,7 @@
 
 .line11 {
     position: absolute;
-    top: 94%;;
+    top: 90%;;
     left: 50%;
     color: #ffffff;
     font-size: 6pt;
@@ -98,5 +98,5 @@
     top: 97%;;
     left: 50%;
     color: #ffffff;
-    font-size: 5pt;
+    font-size: 2pt;
 }
