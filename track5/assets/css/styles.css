@@ -5,7 +5,7 @@
     transform: translate (-50%,-50%);
     font-size: 190px;
     font-family: helvetica;
-    color: #BF8888
+    color: #204139;
 
 }
 
@@ -16,7 +16,7 @@
     transform: translate (-40%,-40%);
     font-size: 175px;
     font-family: helvetica;
-    color: #ffffff;
+    color: #386E61;
 
 }
 .dunk2 {
@@ -26,7 +26,7 @@
     transform: translate (-30%,-30%);
     font-size: 125px;
     font-family: helvetica;
-    color: #C9ACAC;
+    color: #6BAA9C;
 
 }
 .dunk3 {
@@ -36,7 +36,7 @@
     transform: translate (-20%,-20%);
     font-size: 100px;
     font-family: helvetica;
-    color: #ffffff;
+    color: #8FCABC;
 
 }
 .dunk4 {
@@ -46,6 +46,6 @@
     transform: translate (-15%,-15%);
     font-size: 75px;
     font-family: helvetica;
-    color: #E1CECE;
+    color: #BBDAD3;
 
 }
