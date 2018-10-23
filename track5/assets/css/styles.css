@@ -1,8 +1,8 @@
 .dunk {
     position: fixed;
     top: 60%;
-    left: 50%;
-    transform: translate (-50%,-50%);
+    left: 60%;
+    transform: translate (-60%,-60%);
     font-size: 190px;
     font-family: helvetica;
     color: #204139;
@@ -41,7 +41,7 @@
 }
 .dunk4 {
     position: fixed;
-    top: 15%;
+    top: 12%;
     left: 15%;
     transform: translate (-15%,-15%);
     font-size: 75px;
