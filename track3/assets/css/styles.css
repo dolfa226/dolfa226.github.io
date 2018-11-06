@@ -4,20 +4,3 @@ body {
     font-family: Didot; 
     text-align: center;
 }
-
-
-.rectangle {
-    background: #FFFFFF;
-    width: 600px; 
-    height: auto;
-    position: relative;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-img {
-    width: 75%;
-    position: relative;
-    margin-left: auto;
-    margin-right: auto;
-}

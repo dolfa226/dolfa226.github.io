@@ -1,15 +1,46 @@
 body {
-    background: #0000;
-    font-size: 18px;
-    font-family: Didot; 
+    background: #000000;
+
+} 
+
+
+.header {
+    color: #FDD106; 
+    font-family: Avenir;
+    font-size: 45px; 
+    position: absolute;
+    top: 200px;
+    bottom: 200px;
+    left: 200px;
+
+}
+
+.line2 {
+    color: #FDD106;
+    font-family: Avenir;
+    font-size: 45px;
+    position: absolute;
+    top: 1000px;
+    bottom: 200px;
+    right: 40px;
+}
+
+.line3 {
+    color: #FDD106;
+    font-family: Avenir;
+    font-size: 45px;
+    position: absolute;
+    top: 1500px;
+    bottom: 200px;
+    text-align: center;
+
+}
+
+.line4 {
+    font-family: Avenir;
+    font-size: 30px;
+    color: #FDD106;
+    position: relative;
+    top: 2500px;
     text-align: center;
 }
-
-img {
-    width: 100%;
-    height: auto;
-    position: relative;
-}
-
-
-
