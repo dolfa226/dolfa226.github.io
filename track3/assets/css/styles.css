@@ -74,7 +74,7 @@ ul, li {
     position: relative;
     top: 485px;
     bottom: 100px;
-    left: 706px;
+    left: 406px;
 }
 
 .lost3:hover, .active{
@@ -90,7 +90,7 @@ ul, li {
         position: relative;
         top: 485px;
         bottom: 100px;
-        left: 506px;
+        left: 700px;
         border: 1px solid #2882AB;
         display: inline-block;
         font-size: 20px;
@@ -100,7 +100,7 @@ ul, li {
 
 .lost4:hover, .active{
     background: #2882AB;
-    color: #000000;
+    color: #ffffff;
     cursor: pointer;
 }
 .lost5 {
@@ -108,9 +108,9 @@ ul, li {
     height: 119px;
     background: #ffffff;
     position: relative;
-    top: 485px;
+    top: 685px;
     bottom: 100px;
-    left: 506px;
+    left: 206px;
     border: 1px solid #2882AB;
     display: inline-block;
     font-size: 20px;
@@ -134,9 +134,9 @@ ul, li {
     height: 119px;
     background: #ffffff;
     position: relative;
-    top: 485px;
+    top: 585px;
     bottom: 100px;
-    left: 706px;
+    left: 806px;
 }
 
 .lost6:hover, .active{

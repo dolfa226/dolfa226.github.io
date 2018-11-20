@@ -4,43 +4,102 @@ body {
 } 
 
 
-.header {
+.line1 {
     color: #FDD106; 
     font-family: Avenir;
     font-size: 45px; 
     position: absolute;
     top: 200px;
     bottom: 200px;
-    left: 200px;
+    left: 300px;
 
 }
 
 .line2 {
-    color: #FDD106;
+    color: #FDD106; 
     font-family: Avenir;
-    font-size: 45px;
+    font-size: 45px; 
     position: absolute;
-    top: 1000px;
+    top: 200px;
     bottom: 200px;
-    right: 40px;
+    left: 400px;
+
 }
 
 .line3 {
-    color: #FDD106;
+    color: #FDD106; 
     font-family: Avenir;
-    font-size: 45px;
+    font-size: 45px; 
     position: absolute;
-    top: 1500px;
+    top: 200px;
     bottom: 200px;
-    text-align: center;
+    left: 500px;
 
 }
 
 .line4 {
+    color: #FDD106; 
     font-family: Avenir;
-    font-size: 30px;
-    color: #FDD106;
-    position: relative;
-    top: 2500px;
-    text-align: center;
+    font-size: 45px; 
+    position: absolute;
+    top: 200px;
+    bottom: 200px;
+    left: 600px;
+
+}
+
+.line5 {
+    color: #FDD106; 
+    font-family: Avenir;
+    font-size: 45px; 
+    position: absolute;
+    top: 200px;
+    bottom: 200px;
+    left: 700px;
+
+}
+
+.line6 {
+    color: #FDD106; 
+    font-family: Avenir;
+    font-size: 45px; 
+    position: absolute;
+    top: 200px;
+    bottom: 200px;
+    left: 800px;
+
+}
+
+
+.line7 {
+    color: #FDD106; 
+    font-family: Avenir;
+    font-size: 45px; 
+    position: absolute;
+    top: 200px;
+    bottom: 200px;
+    left: 900px;
+
+}
+
+.line8 {
+    color: #FDD106; 
+    font-family: Avenir;
+    font-size: 45px; 
+    position: absolute;
+    top: 200px;
+    bottom: 200px;
+    left: 1000px;
+
+}
+
+.line9 {
+    color: #FDD106; 
+    font-family: Avenir;
+    font-size: 45px; 
+    position: fixed;
+    top: 400px;
+    bottom: 200px;
+    left: 10px; 
+
 }

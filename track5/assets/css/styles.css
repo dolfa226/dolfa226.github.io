@@ -1,51 +1,94 @@
-.dunk {
-    position: fixed;
-    top: 60%;
-    left: 60%;
-    transform: translate (-60%,-60%);
-    font-size: 190px;
-    font-family: helvetica;
-    color: #204139;
-
+.body {
+    color: #ffffff;
 }
-
-.dunk1 {
+.line1a {
+    color: #0000FF; 
+    font-family: Avenir;
+    font-style: bold;
+    font-size: 100px; 
     position: absolute;
-    top: 40%;
-    left: 40%;
-    transform: translate (-40%,-40%);
-    font-size: 175px;
-    font-family: helvetica;
-    color: #386E61;
-
+    top: 200px;
+    bottom: 200px;
+    left: 500px;
 }
-.dunk2 {
-    position: fixed;
-    top: 30%;
-    left: 30%;
-    transform: translate (-30%,-30%);
-    font-size: 125px;
-    font-family: helvetica;
-    color: #6BAA9C;
 
-}
-.dunk3 {
+.line1b {
+    color: #000000; 
+    font-family: Avenir;
+    font-size: 100px; 
     position: absolute;
-    top: 20%;
-    left: 20%;
-    transform: translate (-20%,-20%);
+    top: 200px;
+    bottom: 200px;
+    left: 505px;
+}
+
+.line1c {
+    color: #FF0000; 
+    font-family: Avenir;
     font-size: 100px;
-    font-family: helvetica;
-    color: #8FCABC;
-
+    position: absolute;
+    top: 200px;
+    bottom: 200px;
+    left: 510px;
 }
-.dunk4 {
-    position: fixed;
-    top: 12%;
-    left: 15%;
-    transform: translate (-15%,-15%);
-    font-size: 75px;
-    font-family: helvetica;
-    color: #BBDAD3;
 
+.line2a {
+    color: #0000FF; 
+    font-family: Avenir;
+    font-size: 100px; 
+    position: absolute;
+    top: 1000px;
+    bottom: 200px;
+    left: 600px;
+}
+
+
+.line2b {
+    color: #000000; 
+    font-family: Avenir;
+    font-size: 100px; 
+    position: absolute;
+    top: 1000px;
+    bottom: 200px;
+    left: 603px;
+}
+
+.line2c {
+    color: #FF0000; 
+    font-family: Avenir;
+    font-size: 100px; 
+    position: absolute;
+    top: 1000px;
+    bottom: 200px;
+    left: 605px;
+}
+
+.line3a {
+    color: #FF0000; 
+    font-family: Avenir;
+    font-size: 100px; 
+    position: absolute;
+    top: 1500px;
+    bottom: 200px;
+    left: 900px;
+}
+
+.line3b {
+    color: #000000; 
+    font-family: Avenir;
+    font-size: 100px; 
+    position: absolute;
+    top: 1550px;
+    bottom: 200px;
+    left: 880px;
+}
+
+.line3c {
+    color: #0000FF; 
+    font-family: Avenir;
+    font-size: 100px; 
+    position: absolute;
+    top: 1525px;
+    bottom: 200px;
+    left: 910px;
 }
