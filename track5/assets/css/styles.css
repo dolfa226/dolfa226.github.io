@@ -93,12 +93,34 @@
     left: 910px;
 }
 
-.line4 {
+
+
+.line4a {
+    color: #FF0000; 
+    font-family: Avenir;
+    font-size: 100px; 
+    position: absolute;
+    top: 2000px;
+    bottom: 200px;
+    left: 200px;
+}
+
+.line4b {
     color: #000000; 
     font-family: Avenir;
-    font-size: 50px; 
+    font-size: 100px; 
     position: absolute;
-    top: 2500px;
+    top: 2050px;
     bottom: 200px;
-    left: 600px;
+    left: 280px;
+}
+
+.line4c {
+    color: #0000FF; 
+    font-family: Avenir;
+    font-size: 100px; 
+    position: absolute;
+    top: 2025px;
+    bottom: 200px;
+    left: 210px;
 }
