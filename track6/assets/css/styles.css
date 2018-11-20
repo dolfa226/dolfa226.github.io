@@ -1,66 +1,11 @@
-.chop1 {
+body {
+    background: #000;
+    font-family: Avenir;
+    color: #fff;
+}
+
+.line1 {
     position: absolute;
-    top: 5%;
-    left: 500%;
-    transform: translate (-50%,-50%);
-    font-size: 190px;
-    font-family: futura;
-    color: #A46969;
-
+    font-size: 500px;
+    left: 125px;
 }
-
-.chop1 {
-    position: fixed;
-    top: 30%;
-    left: 50%;
-    transform: translate (-50%,-50%);
-    font-size: 190px;
-    font-family: helvetica;
-    color: #A46969;
-
-}
-
-.chop2 {
-    position: absolute;
-    top: 40%;
-    left: 50%;
-    transform: translate (-50%,-50%);
-    font-size: 190px;
-    font-family: helvetica;
-    color: #A46969;
-
-}
-
-.chop3 {
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    transform: translate (-50%,-50%);
-    font-size: 190px;
-    font-family: helvetica;
-    color: #A46969;
-
-}
-
-.chop4 {
-    position: absolute;
-    top: 60%;
-    left: 50%;
-    transform: translate (-50%,-50%);
-    font-size: 190px;
-    font-family: helvetica;
-    color: #A46969;
-
-}
-
-.chop5 {
-    position: fixed;
-    top: 70%;
-    left: 50%;
-    transform: translate (-50%,-50%);
-    font-size: 190px;
-    font-family: helvetica;
-    color: #A46969;
-
-}
-
