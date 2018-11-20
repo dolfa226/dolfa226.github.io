@@ -1,7 +1,7 @@
 .chop1 {
     position: absolute;
     top: 5%;
-    left: 50%;
+    left: 500%;
     transform: translate (-50%,-50%);
     font-size: 190px;
     font-family: futura;
@@ -62,10 +62,5 @@
     font-family: helvetica;
     color: #A46969;
 
-}
-
-.img {
-    min-width: 100%;
-    left: 1000px;
 }
 

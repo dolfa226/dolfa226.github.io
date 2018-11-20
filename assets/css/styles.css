@@ -1,22 +1,8 @@
 body {
-    background:#F3FBF8;
-    font-family: Didot;
-    margin: 0;
-    padding: 0;
+    background:#0000;
+    font-family: Avenir;
 }
 
-
-video {
-    position: absolute;
-    top: 50%;
-    bottom: 50%;
-    transform: translate (-50%, -50%);
-    min-width: 100%;
-    min-height: 100%;
-    width: 1440px;
-    height: auto;
-    z-index: 1;
-}
 
 .text {
     z-index: 2;
@@ -24,5 +10,7 @@ video {
     margin: 0;
 }
 
-
+.section1 {
+    
+}
 
