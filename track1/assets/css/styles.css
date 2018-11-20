@@ -1,102 +1,157 @@
-.img {
-    min-width: 1024px;
-    min-height: 100%;
-    top: 0;
-    left: 0;
-    position: fixed;
+body {
+    background: #000000;
+    font-weight: medium;
+    font-family: Avenir;
+    font-size: 36px;
+    color: #ffffff;
+} 
+
+.disruption {
+    position: relative;
+    top: 425px;
+    left: 578px;
+    right: 578px;
 }
 
-.line1 {
-    position: absolute;
-    top: 9%;
-    left: 50%;
-    color: #ffffff;
-    font-size: 100pt;
-}
-.line2 {
-    position: absolute;
-    top: 20%;
-    left: 50%;
-    color: #ffffff;
-    font-size: 80pt;
+.dis1 {
+    position: relative;
+    top: 883px;
+    left: 405px;
+    right: 964px;
 }
 
-.line3 {
-    position: absolute;
-    top: 30%;;
-    left: 50%;
-    color: #ffffff;
-    font-size: 70pt;
+.dis2 {
+    position: relative;
+    top: 962px;
+    left: 556px;
+    right: 865px;
 }
 
-.line4 {
-    position: absolute;
-    top: 40%;;
-    left: 50%;
-    color: #ffffff;
-    font-size: 60pt;
-}
-.line5 {
-    position: absolute;
-    top: 48%;;
-    left: 50%;
-    color: #ffffff;
-    font-size: 55pt;
+.dis3 {
+    position: relative;
+    top: 890px;
+    left: 782px;
+    right: 660px;
 }
 
-.line6 {
-    position: absolute;
-    top: 57%;
-    left: 50%;
-    color: #ffffff;
-    font-size: 35pt;
+.dis4 {
+    position: relative;
+    top: 879px;
+    left: 924px;
+    right: 498px;
 }
 
-.line7 {
-    position: absolute;
-    top: 64%;
-    left: 50%;
-    color: #ffffff;
-    font-size: 20pt;
+.dis5 {
+    position: relative;
+    top: 1244px;
+    left: 113px;
 }
 
-.line8 {
-    position: absolute;
-    top: 70%;;
-    left: 50%;
-    color: #ffffff;
-    font-size: 15pt;
+.dis6 {
+    position: relative;
+    top: 1244px;
+    left: 771px;
 }
 
-.line9 {
-    position: absolute;
-    top: 77%;;
-    left: 50%;
-    color: #ffffff;
-    font-size: 10pt;
+.dis7 {
+    position: relative;
+    top: 1258px;
+    left: 556px;
 }
 
-.line10 {
-    position: absolute;
-    top: 83%;;
-    left: 50%;
-    color: #ffffff;
-    font-size: 8pt;
+.letters1 {
+    position: relative;
+    top: 1958px;
+    left: 255px;
 }
 
-.line11 {
-    position: absolute;
-    top: 90%;;
-    left: 50%;
-    color: #ffffff;
-    font-size: 6pt;
+.letters2 {
+    position: relative;
+    top: 2016px;
+    left: 323px;
 }
 
+.letters3 {
+    position: relative;
+    top: 1946px;
+    left: 427px;
+}
 
-.line12 {
-    position: absolute;
-    top: 97%;;
-    left: 50%;
-    color: #ffffff;
-    font-size: 2pt;
+.letters4 {
+    position: relative;
+    top: 1898px;
+    left: 556px;
+}
+
+.letters5 {
+    position: relative;
+    top: 1953px;
+    left: 624px;
+}
+
+.letters6 {
+    position: relative;
+    top: 1955px;
+    left: 775px;
+}
+
+.letters7 {
+    position: relative;
+    top: 1917px;
+    left: 858px;
+}
+
+.letters8 {
+    position: relative;
+    top: 1860px;
+    left: 963px;
+}
+
+.letters9 {
+    position: relative;
+    top: 1981px;
+    left: 1101px;
+}
+
+.letters10 {
+    position: relative;
+    top: 1981px;
+    left: 1200px;
+}
+
+.blockcolor1 {
+    position: relative;
+    top: 2640px;
+    left: 227px;
+}
+
+.blockcolor2a {
+    position: relative;
+    top: 2700px;
+    left: 227px;
+}
+
+.blockcolor2b {
+    position: relative;
+    top: 2700px;
+    left: 680px;
+    color: #FFE222;
+}
+
+.blockcolor2c {
+    position: relative;
+    top: 2700px;
+    left: 903px;
+}
+
+.blockcolor3 {
+    position: relative;
+    top: 2760px;
+    left: 227px;
+}
+
+.blockcolor4 {
+    position: relative;
+    top: 2820px;
+    left: 227px;
 }

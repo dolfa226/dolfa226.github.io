@@ -1,23 +1,84 @@
-.img {
-    min-width: 1024px;
-    min-height: 100%;
-    top: 0;
-    left: 0;
-    position: fixed;
+body {
+    font-family: Avenir;
+    color: white; 
+    background: #000000;
+    padding: 100px;
 }
 
 .line1 {
+    font-size: 100px;
     position: absolute;
-    top: 100px;
-    left: 0px;
-    color: #ffffff;
-    font-size: 8pt;
+    top: 220px;
+    left: 410px;
+    color: #FFFF00;
 }
 
 .line2 {
+    font-size: 100px;
     position: absolute;
-    top: 100x;
-    left: 0x;
-    color: #000000;
-    font-size: 40pt;
+    top: 220px;
+    left: 575px;
 }
+
+.line3 {
+    font-size: 100px;
+    position: absolute;
+    top: 220px;
+    left: 740px;
+    color: #0000FF;
+}
+
+.line4 {
+    font-size: 100px;
+    position: absolute;
+    top: 220px;
+    left: 905px;
+    color: #FF0000;
+}
+
+.line5 {
+    font-size: 100px;
+    position: absolute;
+    top: 900px;
+    left: 550px;
+}
+
+.line6 {
+    font-size: 100px;
+    position: absolute;
+    top: 1100px;
+    left: 550px;
+}
+
+.line7 {
+    font-size: 100px;
+    position: absolute;
+    top: 1300px;
+    left: 550px;
+}
+
+.line8 {
+    font-size: 100px;
+    position: absolute;
+    top: 1700px;
+    left: 550px;
+}
+
+.line9 {
+    font-size: 100px;
+    position: absolute;
+    top: 2300px;
+    left: 550px;
+}
+
+.line10 {
+    font-size: 30px;
+    position: absolute;
+    top: 4000px;
+    left: 650px;
+    bottom: 1000px;
+}
+
+
+
+

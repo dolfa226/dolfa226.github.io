@@ -17,7 +17,7 @@
 $('.nav-item').click(function() {
     var img = $(this).data('img');
     var classname = $(this).data('classname');
-    var img_to_show = '<div class="logo ' + classname + '"><img src="assets/img/' + img +" /></div>/>';
+    var img_to_show = '<div class="logo ' + classname + '"><img src="assets/img/' + img + " /></div>/>';
 
     // $('.content').append(img);
     $('.content').prepend(img_to_show);
