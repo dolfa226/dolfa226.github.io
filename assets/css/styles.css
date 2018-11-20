@@ -1,16 +1,25 @@
 body {
-    background:#0000;
+    background:#000;
     font-family: Avenir;
+    color: #ffffff;
 }
 
-
-.text {
-    z-index: 2;
-    position: relative;
-    margin: 0;
-}
 
 .section1 {
-    
+    position: absolute;
+    top: 400px;
+    left: 650px;
+
 }
 
+.section1a {
+    position: absolute;
+    top: 1000px;
+    left: 650px;
+}
+
+.section1b {
+    position: absolute;
+    top: 1500px;
+    left: 650px;
+}
