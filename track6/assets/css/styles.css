@@ -2,10 +2,25 @@ body {
     background: #000;
     font-family: Avenir;
     color: #fff;
+
 }
 
 .line1 {
     position: absolute;
-    font-size: 500px;
     left: 125px;
+    font-size: 500px;
+}
+
+.line2 {
+    position: absolute;
+    top: 1000px;
+    left: 100px;
+    font-size: 500px;
+}
+
+.line3 {
+    position: absolute;
+    font-size: 500px;
+    top: 2000px;
+    left: 900px;
 }

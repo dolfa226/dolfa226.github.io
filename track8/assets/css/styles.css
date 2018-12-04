@@ -1,5 +1,28 @@
-.text {
-    font-family: helvetica;
-    font-size: 400px;
-
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    animation: wavemover 10s infinite alternate;
+    font-family: Avenir, Helvetica, sans-serif;
+    color: #fff;
+    background: #000;
+    filter: url ('#wreckit');
 }
+
+.wrapper {
+    width: 960px;
+    padding: 0px;
+}
+
+.h1 {
+    opacity: .10;
+}
+@keyframes wavemover {
+    100% {
+        padding-left: 300px;
+        transform: translateX(-100px);
+    }
+}
+  
+
+

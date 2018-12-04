@@ -1,84 +1,90 @@
 body {
     font-family: Avenir;
+    font-weight: medium;
     color: white; 
     background: #000000;
-    padding: 100px;
+    margin: 0px;
+    padding: 0px;
 }
 
-.line1 {
-    font-size: 100px;
+.wrapper {
+    width: 564px;
+    height: 867px;
+    left: 438px;
     position: absolute;
-    top: 220px;
-    left: 410px;
-    color: #FFFF00;
+    top: 88px;
+}
+
+  /*marquee {
+    background: #ff0;
+} 
+*/
+
+
+.line1 {
+    font-size: 300px;
+    position: absolute;
+    top: 0px;
+    left: 26px;
+    margin: 0px;
 }
 
 .line2 {
-    font-size: 100px;
+    font-size: 300px;
     position: absolute;
-    top: 220px;
-    left: 575px;
+    top: 73px;
+    left: 314px;
+    margin: 0px;
 }
 
 .line3 {
-    font-size: 100px;
+    font-size: 300px;
     position: absolute;
-    top: 220px;
-    left: 740px;
-    color: #0000FF;
+    top: 288px;
+    left: 87px;
+    margin: 0px;
 }
 
 .line4 {
-    font-size: 100px;
+    font-size: 300px;
     position: absolute;
-    top: 220px;
-    left: 905px;
-    color: #FF0000;
+    top: 365px;
+    left: 314px;
+    margin: 0px;
 }
 
-.line5 {
-    font-size: 100px;
+.section2 {
+    width: 1440px;
+    height: 950px;
+    top: 1061px;
     position: absolute;
-    top: 900px;
-    left: 550px;
+    left: 0px;
+    background: #CF3E3E;
 }
 
-.line6 {
-    font-size: 100px;
+.wrapper1 {
+    width: 564px;
+    height: 593px;
+    left: 86px;
     position: absolute;
-    top: 1100px;
-    left: 550px;
+    top: 32px;
+    font-size: 24px;
 }
 
-.line7 {
-    font-size: 100px;
+.wrapper2 {
+    width: 160px;
+    height: 593px;
+    left: 640px;
+    top: 341px;
     position: absolute;
-    top: 1300px;
-    left: 550px;
+    font-size: 24px;
 }
 
-.line8 {
-    font-size: 100px;
+.wrapper3 {
+    width: 564px;
+    height: 593px;
+    left: 799px;
     position: absolute;
-    top: 1700px;
-    left: 550px;
+    top: 32px;
+    font-size: 24px;
 }
-
-.line9 {
-    font-size: 100px;
-    position: absolute;
-    top: 2300px;
-    left: 550px;
-}
-
-.line10 {
-    font-size: 30px;
-    position: absolute;
-    top: 4000px;
-    left: 650px;
-    bottom: 1000px;
-}
-
-
-
-

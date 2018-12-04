@@ -1,13 +1,14 @@
 body {
     background: #000000;
-
+    color: #ffffff;
+    margin: 0px;
+    padding: 0px;
 } 
 
 
 .line1 {
-    color: #FDD106; 
     font-family: Avenir;
-    font-size: 45px; 
+    font-size: 100px; 
     position: absolute;
     top: 200px;
     bottom: 200px;
@@ -16,9 +17,8 @@ body {
 }
 
 .line2 {
-    color: #FDD106; 
     font-family: Avenir;
-    font-size: 45px; 
+    font-size: 100px; 
     position: absolute;
     top: 200px;
     bottom: 200px;
@@ -27,9 +27,8 @@ body {
 }
 
 .line3 {
-    color: #FDD106; 
     font-family: Avenir;
-    font-size: 45px; 
+    font-size: 100px; 
     position: absolute;
     top: 200px;
     bottom: 200px;
@@ -38,9 +37,8 @@ body {
 }
 
 .line4 {
-    color: #FDD106; 
     font-family: Avenir;
-    font-size: 45px; 
+    font-size: 100px; 
     position: absolute;
     top: 200px;
     bottom: 200px;
@@ -49,9 +47,8 @@ body {
 }
 
 .line5 {
-    color: #FDD106; 
     font-family: Avenir;
-    font-size: 45px; 
+    font-size: 100px; 
     position: absolute;
     top: 200px;
     bottom: 200px;
@@ -60,9 +57,8 @@ body {
 }
 
 .line6 {
-    color: #FDD106; 
     font-family: Avenir;
-    font-size: 45px; 
+    font-size: 4100px; 
     position: absolute;
     top: 200px;
     bottom: 200px;
@@ -72,9 +68,8 @@ body {
 
 
 .line7 {
-    color: #FDD106; 
     font-family: Avenir;
-    font-size: 45px; 
+    font-size: 100px; 
     position: absolute;
     top: 200px;
     bottom: 200px;
@@ -83,12 +78,122 @@ body {
 }
 
 .line8 {
-    color: #FDD106; 
     font-family: Avenir;
-    font-size: 45px; 
+    font-size: 100px; 
     position: absolute;
     top: 200px;
     bottom: 200px;
     left: 1000px;
 }
 
+
+.wrapper2 {
+    width: 1440px;
+    height: 2000px;
+    position: absolute;
+    top: 600px;
+    font-family: Avenir;
+    font-size: 340px;
+}
+
+.b {
+    position: absolute; 
+    top: 249px;
+    left: 82px;
+}
+
+.o1 {
+    position: absolute; 
+    top: 0px;
+    left: 294px;
+}
+
+.o2 {
+    position: absolute; 
+    top: 306px;
+    left: 294px;
+}
+
+.o3 {
+    position: absolute; 
+    top: 440px;
+    left: 294px;
+}
+
+.o4 {
+    position: absolute; 
+    top: 689px;
+    left: 294px;
+}
+
+.o4 {
+    position: absolute; 
+    top: 689px;
+    left: 294px;
+}
+
+.o5 {
+    position: absolute; 
+    top: 886px;
+    left: 294px;
+}
+
+.o6 {
+    position: absolute; 
+    top: 886px;
+    left: 294px;
+}
+
+.o7 {
+    position: absolute; 
+    top: 1107px;
+    left: 294px;
+}
+
+.o8 {
+    position: absolute; 
+    top: 1231px;
+    left: 294px;
+}
+
+.o9 {
+    position: absolute; 
+    top: 1271px;
+    left: 294px;
+}
+
+.o10 {
+    position: absolute; 
+    top: 1321px;
+    left: 294px;
+}
+
+.o11 {
+    position: absolute; 
+    top: 1351px;
+    left: 294px;
+}
+
+.u {
+    position: absolute; 
+    top: 249px;
+    left: 550px;
+}
+
+.n {
+    position: absolute; 
+    top: 249px;
+    left: 779px;
+}
+
+.c {
+    position: absolute; 
+    top: 381px;
+    left: 985px;
+}
+
+.e {
+    position: absolute; 
+    top: 240px;
+    left: 1184px;
+}
