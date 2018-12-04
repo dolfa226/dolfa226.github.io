@@ -1,0 +1,166 @@
+body {
+    font-family: Avenir;
+    font-weight: medium;
+    color: white; 
+    background: #000000;
+    margin: 0px;
+    padding: 0px;
+    width: 1440px;
+}
+
+.topwrapper {
+    width: 178px;
+    height: 166px;
+    position: absolute;
+    left: 631px;
+    top: 0px;
+    font-size: 24px;
+
+}
+.wrapper {
+    width: 564px;
+    height: 867px;
+    left: 438px;
+    position: absolute;
+    top: 88px;
+}
+
+  /*marquee {
+    background: #ff0;
+} 
+*/
+
+
+.line1 {
+    font-size: 300px;
+    position: absolute;
+    top: 0px;
+    left: 26px;
+    margin: 0px;
+}
+
+.line2 {
+    font-size: 300px;
+    position: absolute;
+    top: 73px;
+    left: 314px;
+    margin: 0px;
+}
+
+.line3 {
+    font-size: 300px;
+    position: absolute;
+    top: 288px;
+    left: 87px;
+    margin: 0px;
+}
+
+.line4 {
+    font-size: 300px;
+    position: absolute;
+    top: 365px;
+    left: 314px;
+    margin: 0px;
+}
+
+.middlemove {
+    font-size: 24px;
+    position: absolute;
+    top: 820px;
+    left: 631px;
+    width: 178px;
+    height: 268px;
+
+}
+
+.section2 {
+    width: 1440px;
+    height: 1395px;
+    top: 1061px;
+    position: absolute;
+    left: 0px;
+
+}
+
+.wrapper1 {
+    width: 564px;
+    height: 593px;
+    left: 86px;
+    position: absolute;
+    top: 32px;
+    font-size: 24px;
+}
+
+.wrapper2 {
+    width: 160px;
+    height: 1064px;
+    left: 640px;
+    top: 341px;
+    position: absolute;
+    font-size: 24px;
+}
+
+.wrapper3 {
+    width: 564px;
+    height: 593px;
+    left: 799px;
+    position: absolute;
+    top: 32px;
+    font-size: 24px;
+}
+
+.section3 {
+    width: 1440px;
+    height: 550px;
+    top: 2456px;
+    position: absolute;
+    font-size: 100px;
+}
+
+.word1 {
+    position: absolute;
+    top: 230px;
+    left: 18px;
+}
+
+.word2 {
+    position: absolute;
+    top: 230px;
+    left: 45px;
+}
+
+.word3 {
+    position: absolute;
+    top: 230px;
+    left: 65px;
+}
+
+.word4 {
+    position: absolute;
+    top: 230px;
+    left: 190px;  
+}
+
+.word5 {
+    position: absolute;
+    top: 230px;
+    left: 400px;  
+}
+
+.word6 {
+    position: absolute;
+    top: 230px;
+    left: 510px;  
+}
+
+.word6 {
+    position: absolute;
+    top: 230px;
+    left: 775px;  
+}
+
+.word7 {
+    position: absolute;
+    top: 230px;
+    left: 1150px;  
+}

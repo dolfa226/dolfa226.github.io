@@ -8,6 +8,15 @@ body {
     width: 1440px;
 }
 
+.topwrapper {
+    width: 178px;
+    height: 166px;
+    position: absolute;
+    left: 631px;
+    top: 0px;
+    font-size: 24px;
+
+}
 .wrapper {
     width: 564px;
     height: 867px;
@@ -54,9 +63,19 @@ body {
     margin: 0px;
 }
 
+.middlemove {
+    font-size: 24px;
+    position: absolute;
+    top: 820px;
+    left: 631px;
+    width: 178px;
+    height: 268px;
+
+}
+
 .section2 {
     width: 1440px;
-    height: 950px;
+    height: 1395px;
     top: 1061px;
     position: absolute;
     left: 0px;
@@ -74,7 +93,7 @@ body {
 
 .wrapper2 {
     width: 160px;
-    height: 593px;
+    height: 1064px;
     left: 640px;
     top: 341px;
     position: absolute;
@@ -93,7 +112,7 @@ body {
 .section3 {
     width: 1440px;
     height: 550px;
-    top: 2097px;
+    top: 2456px;
     position: absolute;
     font-size: 100px;
 }

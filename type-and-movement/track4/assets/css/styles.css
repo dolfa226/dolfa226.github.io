@@ -1,0 +1,199 @@
+body {
+    background: #000000;
+    color: #ffffff;
+    margin: 0px;
+    padding: 0px;
+} 
+
+
+.line1 {
+    font-family: Avenir;
+    font-size: 100px; 
+    position: absolute;
+    top: 200px;
+    bottom: 200px;
+    left: 300px;
+
+}
+
+.line2 {
+    font-family: Avenir;
+    font-size: 100px; 
+    position: absolute;
+    top: 200px;
+    bottom: 200px;
+    left: 400px;
+
+}
+
+.line3 {
+    font-family: Avenir;
+    font-size: 100px; 
+    position: absolute;
+    top: 200px;
+    bottom: 200px;
+    left: 500px;
+
+}
+
+.line4 {
+    font-family: Avenir;
+    font-size: 100px; 
+    position: absolute;
+    top: 200px;
+    bottom: 200px;
+    left: 600px;
+
+}
+
+.line5 {
+    font-family: Avenir;
+    font-size: 100px; 
+    position: absolute;
+    top: 200px;
+    bottom: 200px;
+    left: 700px;
+
+}
+
+.line6 {
+    font-family: Avenir;
+    font-size: 4100px; 
+    position: absolute;
+    top: 200px;
+    bottom: 200px;
+    left: 800px;
+
+}
+
+
+.line7 {
+    font-family: Avenir;
+    font-size: 100px; 
+    position: absolute;
+    top: 200px;
+    bottom: 200px;
+    left: 900px;
+
+}
+
+.line8 {
+    font-family: Avenir;
+    font-size: 100px; 
+    position: absolute;
+    top: 200px;
+    bottom: 200px;
+    left: 1000px;
+}
+
+
+.wrapper2 {
+    width: 1440px;
+    height: 2000px;
+    position: absolute;
+    top: 600px;
+    font-family: Avenir;
+    font-size: 340px;
+}
+
+.b {
+    position: absolute; 
+    top: 249px;
+    left: 82px;
+}
+
+.o1 {
+    position: absolute; 
+    top: 0px;
+    left: 294px;
+}
+
+.o2 {
+    position: absolute; 
+    top: 306px;
+    left: 294px;
+}
+
+.o3 {
+    position: absolute; 
+    top: 440px;
+    left: 294px;
+}
+
+.o4 {
+    position: absolute; 
+    top: 689px;
+    left: 294px;
+}
+
+.o4 {
+    position: absolute; 
+    top: 689px;
+    left: 294px;
+}
+
+.o5 {
+    position: absolute; 
+    top: 886px;
+    left: 294px;
+}
+
+.o6 {
+    position: absolute; 
+    top: 886px;
+    left: 294px;
+}
+
+.o7 {
+    position: absolute; 
+    top: 1107px;
+    left: 294px;
+}
+
+.o8 {
+    position: absolute; 
+    top: 1231px;
+    left: 294px;
+}
+
+.o9 {
+    position: absolute; 
+    top: 1271px;
+    left: 294px;
+}
+
+.o10 {
+    position: absolute; 
+    top: 1321px;
+    left: 294px;
+}
+
+.o11 {
+    position: absolute; 
+    top: 1351px;
+    left: 294px;
+}
+
+.u {
+    position: absolute; 
+    top: 249px;
+    left: 550px;
+}
+
+.n {
+    position: absolute; 
+    top: 249px;
+    left: 779px;
+}
+
+.c {
+    position: absolute; 
+    top: 381px;
+    left: 985px;
+}
+
+.e {
+    position: absolute; 
+    top: 240px;
+    left: 1184px;
+}

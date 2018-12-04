@@ -1,0 +1,147 @@
+body {
+    background: #ffffff;
+    font-family: Avenir;
+}
+
+.column {
+    width: 50%;
+    height: 100%;
+    display: inline-block;
+    padding: 30px;
+    vertical-align: top;
+}
+
+ul, li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.see1 {
+    position: absolute;
+
+}
+
+.lost1{
+    border: 1px solid #2882AB;
+    display: inline-block;
+    font-size: 20px;
+    color: #FFFEED;
+    width: 119px;
+    height: 119px;
+    background: #ffffff;
+    position: relative;
+    top: 285px;
+    bottom: 100px;
+    left: 306px;
+}
+
+.lost1:hover, .active{
+    background: #2882AB;
+    color: #fff;
+    cursor: pointer;
+}
+.lost2 {
+    width: 119px;
+    height: 119px;
+    background: #ffffff;
+    position: relative;
+    top: 285px;
+    bottom: 100px;
+    left: 506px;
+    border: 1px solid #2882AB;
+    display: inline-block;
+    font-size: 20px;
+    color: #FFFEED;
+}
+
+
+.lost2:hover, .active{
+    background: #2882AB;
+    color: #fff;
+    cursor: pointer;
+}
+
+
+.lost3{
+    border: 1px solid #2882AB;
+    display: inline-block;
+    font-size: 20px;
+    color: #FFFEED;
+    width: 119px;
+    height: 119px;
+    background: #ffffff;
+    position: relative;
+    top: 485px;
+    bottom: 100px;
+    left: 406px;
+}
+
+.lost3:hover, .active{
+    background: #2882AB;
+    color: #fff;
+    cursor: pointer;
+}
+
+.lost4 {
+        width: 119px;
+        height: 119px;
+        background: #ffffff;
+        position: relative;
+        top: 485px;
+        bottom: 100px;
+        left: 700px;
+        border: 1px solid #2882AB;
+        display: inline-block;
+        font-size: 20px;
+        color: #FFFEED;
+    }
+    
+
+.lost4:hover, .active{
+    background: #2882AB;
+    color: #ffffff;
+    cursor: pointer;
+}
+.lost5 {
+    width: 119px;
+    height: 119px;
+    background: #ffffff;
+    position: relative;
+    top: 685px;
+    bottom: 100px;
+    left: 206px;
+    border: 1px solid #2882AB;
+    display: inline-block;
+    font-size: 20px;
+    color: #FFFEED;
+}
+
+
+.lost5:hover, .active{
+    background: #2882AB;
+    color: #fff;
+    cursor: pointer;
+}
+
+
+.lost6{
+    border: 1px solid #2882AB;
+    display: inline-block;
+    font-size: 20px;
+    color: #FFFEED;
+    width: 119px;
+    height: 119px;
+    background: #ffffff;
+    position: relative;
+    top: 585px;
+    bottom: 100px;
+    left: 806px;
+}
+
+.lost6:hover, .active{
+    background: #2882AB;
+    color: #fff;
+    cursor: pointer;
+}
+ 

@@ -1,0 +1,135 @@
+body {
+    background: #ffffff;
+    margin: 0px;
+}
+
+.section1 {
+    position: absolute;
+    top: 50px;
+    left: 0px;
+}
+
+img {
+    width: 100%;
+}
+
+.section2{
+    position: absolute;
+    top: 1000px;
+    left: 0px;
+}
+
+.line1a {
+    color: #000000; 
+    font-family: Avenir;
+    font-style: bold;
+    font-size: 400px; 
+    position: absolute;
+}
+
+.background {
+    width: 1440px;
+}
+
+.rec1 {
+    width: 10px;
+    height: 5000px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background: #000000;
+}
+
+.rec2 {
+    width: 10px;
+    height: 5000px;
+    position: absolute;
+    top: 0px;
+    left: 20px;
+    background: #000000;
+    display: in-line;
+}
+
+.rec3 {
+    width: 10px;
+    height: 5000px;
+    position: absolute;
+    top: 0px;
+    left: 20px;
+    background: #000000;
+}
+
+.rec4 {
+    width: 10px;
+    height: 5000px;
+    position: absolute;
+    top: 0px;
+    left: 20px;
+    background: #000000;
+}
+
+.rec6 {
+    width: 10px;
+    height: 5000px;
+    position: absolute;
+    top: 0px;
+    left: 20px;
+    background: #000000;
+}
+
+.rec7 {
+    width: 10px;
+    height: 5000px;
+    position: absolute;
+    top: 0px;
+    left: 20px;
+    background: #000000;
+}
+
+.rec8 {
+    width: 10px;
+    height: 5000px;
+    position: absolute;
+    top: 0px;
+    left: 20px;
+    background: #000000;
+}
+
+.rec9 {
+    width: 10px;
+    height: 5000px;
+    position: absolute;
+    top: 0px;
+    left: 20px;
+    background: #000000;
+}
+
+.rec10 {
+    width: 10px;
+    height: 5000px;
+    position: absolute;
+    top: 0px;
+    left: 20px;
+    background: #000000;
+}
+
+.rec11 {
+    width: 10px;
+    height: 5000px;
+    position: absolute;
+    top: 0px;
+    left: 20px;
+    background: #000000;
+}
+
+.rec12 {
+    width: 10px;
+    height: 5000px;
+    position: absolute;
+    top: 0px;
+    left: 20px;
+    background: #000000;
+}
+
+
+ 
