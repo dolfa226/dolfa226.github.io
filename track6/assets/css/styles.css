@@ -2,25 +2,64 @@ body {
     background: #000;
     font-family: Avenir;
     color: #fff;
-
+    margin: 0px;
 }
 
-.line1 {
+.wrapper1 {
+    background: #EAACAC;
+    width: 1440px;
+    height: 2200px;
     position: absolute;
-    left: 125px;
-    font-size: 500px;
+    top: 0px;
+    left: 0px;
+    font-size: 80px;
 }
 
-.line2 {
+.textbox {
+    width: 1224px;
+    height: 674px;
     position: absolute;
-    top: 1000px;
-    left: 100px;
-    font-size: 500px;
+    left: 130px;
+    top: 65px;
 }
 
-.line3 {
+.fall1 {
     position: absolute;
-    font-size: 500px;
-    top: 2000px;
-    left: 900px;
+    left: 740px;
+    top: 700px;
+}
+
+.fall2 {
+    position: absolute;
+    left: 972px;
+    top: 1080px;
+    font-size: 60px;
+}
+
+.fall3 {
+    position: absolute;
+    left: 1098px;
+    top: 1675px;
+    font-size: 30px;
+}
+
+.falling1 {
+    position: absolute;
+    left: 1178px;
+    top: 1747px;
+    font-size: 25px;
+}
+
+.falling2 {
+    position: absolute;
+    left: 1210px;
+    top: 1848px;
+    font-size: 20px;
+}
+
+.falling3 {
+    position: absolute;
+    left: 1243px;
+    top: 2145px;
+    font-size: 10px;
 }
