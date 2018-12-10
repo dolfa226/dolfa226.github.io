@@ -1,0 +1,68 @@
+body {
+    margin: 0px;
+    width: 1440px;
+    height: 900px;
+}
+
+
+.wrapper {
+    width: 900px;
+    height: 900px;
+    position: absolute;
+    left: 320px;
+    top: 0px;
+    
+}
+
+.rotate1 {
+    width: 800px;
+    height: 800px;
+    border-radius: 50%;
+    transition: 1s;
+}
+
+.rotate1:hover{
+    transform: rotate(360deg);
+}
+
+.wrapper2 {
+    width: fit;
+    height: 600px;
+    position: absolute;
+    left: 420px;
+    top: 100px;
+}
+
+.rotate2 {
+    width: 600px;
+    height: 600px;
+    border-radius: 50%;
+    transition: 1s;
+}
+
+.rotate2:hover{
+    transform: rotate(360deg);
+}
+
+
+.wrapper3 {
+    width: fit;
+    height: 400px;
+    position: absolute;
+    left: 520px;
+    top: 200px;
+}
+
+.rotate3 {
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+    transition: 1s;
+}
+
+.rotate3:hover{
+    transform: rotate(360deg);
+}
+
+
+
