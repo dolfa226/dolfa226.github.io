@@ -9,6 +9,11 @@ body {
     width: 1440px;
 }
 
+.wrapper {
+    width: 1440px;
+    position: absolute;
+    
+}
 .slide1 {
     background: #ffffff;
     width: 290px;
