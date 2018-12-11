@@ -1,199 +1,172 @@
 body {
-    background: #000000;
-    color: #ffffff;
+    background: #ffffff;
+    color: #000000;
     margin: 0px;
     padding: 0px;
+    font-family: "Lato";
+    font-weight: bold;
+    font-size: 100px;
 } 
 
 
 .line1 {
-    font-family: Avenir;
-    font-size: 100px; 
     position: absolute;
-    top: 200px;
+    top: 0px;
     bottom: 200px;
-    left: 300px;
-
+    left: 200px;
 }
 
 .line2 {
-    font-family: Avenir;
-    font-size: 100px; 
     position: absolute;
-    top: 200px;
+    top: 100px;
     bottom: 200px;
     left: 400px;
-
+    transform: rotate(180deg);
+}
+.animated {
+    animation-duration: 2.5s;
+    animation-fill-mode: both;
+    animation-iteration-count: infinite;
 }
 
-.line3 {
-    font-family: Avenir;
-    font-size: 100px; 
+.bounce1{
+    animation-name: bounce1;
     position: absolute;
-    top: 200px;
-    bottom: 200px;
-    left: 500px;
-
-}
-
-.line4 {
-    font-family: Avenir;
-    font-size: 100px; 
-    position: absolute;
-    top: 200px;
-    bottom: 200px;
-    left: 600px;
-
-}
-
-.line5 {
-    font-family: Avenir;
-    font-size: 100px; 
-    position: absolute;
-    top: 200px;
-    bottom: 200px;
-    left: 700px;
-
-}
-
-.line6 {
-    font-family: Avenir;
-    font-size: 4100px; 
-    position: absolute;
-    top: 200px;
-    bottom: 200px;
-    left: 800px;
-
-}
-
-
-.line7 {
-    font-family: Avenir;
-    font-size: 100px; 
-    position: absolute;
-    top: 200px;
-    bottom: 200px;
-    left: 900px;
-
-}
-
-.line8 {
-    font-family: Avenir;
-    font-size: 100px; 
-    position: absolute;
-    top: 200px;
-    bottom: 200px;
-    left: 1000px;
-}
-
-
-.wrapper2 {
-    width: 1440px;
-    height: 2000px;
-    position: absolute;
+    left: 100px;
     top: 600px;
-    font-family: Avenir;
-    font-size: 340px;
 }
 
+.bounce2{
+    animation-name: bounce2;
+    position: absolute;
+    left: 50px;
+    top: 10px;
+}
+
+.bounce3{
+    animation-name: bounce2;
+    position: absolute;
+    left: 1000px;
+    top: 20px;
+}
+
+.bounce4{
+    animation-name: bounce1;
+    position: absolute;
+    left: 1000px;
+    top: 700px;
+}
+
+.bounce5{
+    animation-name: bounce2;
+    position: absolute;
+    left: 600px;
+    top: 900px;
+}
+
+.bounce6{
+    animation-name: bounce2;
+    position: absolute;
+    left: 1400px;
+    top: 500px;
+}
+
+@keyframes bounce1 {
+    0%, 20%, 50%, 80%, 100% {transform: translateY(0);}
+    40% {transform: translateY(-150px);}
+    60% {transform: translateY(-50px);}
+}
+
+@keyframes bounce2 {
+    0%, 20%, 50%, 80%, 100% {transform: translateX(0);}
+    40% {transform: translateX(-150px);}
+    60% {transform: translateX(-50px);}
+}
+
+.wrapper2{
+    position: absolute;
+    left: 300px;
+    top: 0px;
+}
 .b {
     position: absolute; 
-    top: 249px;
-    left: 82px;
+    top: 100px;
+    left: 0px;
 }
 
 .o1 {
     position: absolute; 
-    top: 0px;
-    left: 294px;
+    top: 300px;
+    left: 150px;
 }
 
 .o2 {
     position: absolute; 
-    top: 306px;
-    left: 294px;
+    top: 450px;
+    left: 150px;
 }
 
 .o3 {
     position: absolute; 
-    top: 440px;
-    left: 294px;
+    top: 550px;
+    left: 150px;
 }
 
 .o4 {
     position: absolute; 
-    top: 689px;
-    left: 294px;
-}
-
-.o4 {
-    position: absolute; 
-    top: 689px;
-    left: 294px;
+    top: 620px;
+    left: 150px;
 }
 
 .o5 {
     position: absolute; 
-    top: 886px;
-    left: 294px;
-}
-
-.o6 {
-    position: absolute; 
-    top: 886px;
-    left: 294px;
-}
-
-.o7 {
-    position: absolute; 
-    top: 1107px;
-    left: 294px;
-}
-
-.o8 {
-    position: absolute; 
-    top: 1231px;
-    left: 294px;
-}
-
-.o9 {
-    position: absolute; 
-    top: 1271px;
-    left: 294px;
-}
-
-.o10 {
-    position: absolute; 
-    top: 1321px;
-    left: 294px;
-}
-
-.o11 {
-    position: absolute; 
-    top: 1351px;
-    left: 294px;
+    top: 655px;
+    left: 150px;
 }
 
 .u {
     position: absolute; 
-    top: 249px;
-    left: 550px;
+    top: 150px;
+    left: 300px;
 }
 
-.n {
+.n1 {
     position: absolute; 
-    top: 249px;
-    left: 779px;
+    top: 10px;
+    left: 450px;
 }
 
+.n2 {
+    position: absolute; 
+    top: 200px;
+    left: 450px;
+}
+
+.n3 {
+    position: absolute; 
+    top: 400px;
+    left: 450px;
+}
+.n4 {
+    position: absolute; 
+    top: 500px;
+    left: 450px;
+}
+
+.n5 {
+    position: absolute; 
+    top: 575px;
+    left: 450px;
+}
 .c {
     position: absolute; 
-    top: 381px;
-    left: 985px;
+    top: 200px;
+    left: 600px;
 }
 
 .e {
     position: absolute; 
-    top: 240px;
-    left: 1184px;
+    top: 50px;
+    left: 750px;
 }
+

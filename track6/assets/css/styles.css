@@ -1,64 +1,27 @@
 body {
-    background: #000;
-    font-family: Avenir;
-    color: #fff;
+    background: #ffffff;
+    font-family: "Lato";
+    font-weight: bold;
+    color: #000000;
     margin: 0px;
 }
 
-.wrapper1 {
-    width: 1440px;
-    height: 2200px;
+.section1 {
+    background: #D8D8D8;
+    width: 1000px;
+    font-size: 200px;
+    text-align: center;
     position: absolute;
-    top: 0px;
-    left: 0px;
-    font-size: 80px;
+    left: 120px;
+    animation: fall 2s linear forwards ;
+    
 }
 
-.textbox {
-    width: 1224px;
-    height: 674px;
-    position: absolute;
-    left: 130px;
-    top: 65px;
-}
-
-.fall1 {
-    position: absolute;
-    left: 740px;
-    top: 700px;
-}
-
-.fall2 {
-    position: absolute;
-    left: 972px;
-    top: 1080px;
-    font-size: 60px;
-}
-
-.fall3 {
-    position: absolute;
-    left: 1098px;
-    top: 1675px;
-    font-size: 30px;
-}
-
-.falling1 {
-    position: absolute;
-    left: 1178px;
-    top: 1747px;
-    font-size: 25px;
-}
-
-.falling2 {
-    position: absolute;
-    left: 1210px;
-    top: 1848px;
-    font-size: 20px;
-}
-
-.falling3 {
-    position: absolute;
-    left: 1243px;
-    top: 2145px;
-    font-size: 10px;
+@keyframes fall{
+    from{
+        transform: translateY(-500px);
+    }
+    to {
+        transform: translateY(0);
+    }
 }

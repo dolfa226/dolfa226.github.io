@@ -1,147 +1,131 @@
 body {
     background: #ffffff;
-    font-family: Avenir;
+    font-family: "Lato";
+    font-weight: bold;
+    color: #000000;
+    margin: 0px;
+    font-size: 300px;
 }
 
-.column {
-    width: 50%;
-    height: 100%;
-    display: inline-block;
-    padding: 30px;
-    vertical-align: top;
-}
-
-ul, li {
-    margin: 0;
-    padding: 0;
-    list-style: none;
-}
-
-.see1 {
+.marquee {
+    width: 1000px;
     position: absolute;
-
+    left: 40px;
+    top: 150px;
 }
 
-.lost1{
-    border: 1px solid #2882AB;
-    display: inline-block;
-    font-size: 20px;
-    color: #FFFEED;
-    width: 119px;
-    height: 119px;
-    background: #ffffff;
-    position: relative;
-    top: 285px;
-    bottom: 100px;
-    left: 306px;
+.scroll1 {
+    position: absolute;
+    left: 0px;
 }
 
-.lost1:hover, .active{
-    background: #2882AB;
-    color: #fff;
-    cursor: pointer;
-}
-.lost2 {
-    width: 119px;
-    height: 119px;
-    background: #ffffff;
-    position: relative;
-    top: 285px;
-    bottom: 100px;
-    left: 506px;
-    border: 1px solid #2882AB;
-    display: inline-block;
-    font-size: 20px;
-    color: #FFFEED;
+.scroll2 {
+    position: absolute;
+    left: 200px;
 }
 
-
-.lost2:hover, .active{
-    background: #2882AB;
-    color: #fff;
-    cursor: pointer;
+.scroll3 {
+    position: absolute;
+    left: 500px;
 }
 
-
-.lost3{
-    border: 1px solid #2882AB;
-    display: inline-block;
-    font-size: 20px;
-    color: #FFFEED;
-    width: 119px;
-    height: 119px;
-    background: #ffffff;
-    position: relative;
-    top: 485px;
-    bottom: 100px;
-    left: 406px;
+.scroll4 {
+    position: absolute;
+    left: 700px;
 }
 
-.lost3:hover, .active{
-    background: #2882AB;
-    color: #fff;
-    cursor: pointer;
+.scroll5 {
+    position: absolute;
+    left: 1000px;
 }
 
-.lost4 {
-        width: 119px;
-        height: 119px;
-        background: #ffffff;
-        position: relative;
-        top: 485px;
-        bottom: 100px;
-        left: 700px;
-        border: 1px solid #2882AB;
-        display: inline-block;
-        font-size: 20px;
-        color: #FFFEED;
-    }
-    
-
-.lost4:hover, .active{
-    background: #2882AB;
-    color: #ffffff;
-    cursor: pointer;
-}
-.lost5 {
-    width: 119px;
-    height: 119px;
-    background: #ffffff;
-    position: relative;
-    top: 685px;
-    bottom: 100px;
-    left: 206px;
-    border: 1px solid #2882AB;
-    display: inline-block;
-    font-size: 20px;
-    color: #FFFEED;
+.scroll6 {
+    position: absolute;
+    left: 1200px;
 }
 
-
-.lost5:hover, .active{
-    background: #2882AB;
-    color: #fff;
-    cursor: pointer;
+.marquee1a {
+    font-size: 100px;
+    position: absolute;
+    top: 800px;
+    left: 270px;
 }
 
-
-.lost6{
-    border: 1px solid #2882AB;
-    display: inline-block;
-    font-size: 20px;
-    color: #FFFEED;
-    width: 119px;
-    height: 119px;
-    background: #ffffff;
-    position: relative;
-    top: 585px;
-    bottom: 100px;
-    left: 806px;
+.scroll1a {
+    position: absolute;
+    left: 0px;
 }
 
-.lost6:hover, .active{
-    background: #2882AB;
-    color: #fff;
-    cursor: pointer;
+.scroll1b {
+    position: absolute;
+    left: 0px;
+    top: 100px;
 }
- 
+
+.scroll1c {
+    position: absolute;
+    left: 0px;
+    top: 200px;
+}
+
+.scroll1d {
+    position: absolute;
+    left: 0px;
+    top: 300px;
+}
+
+.scroll1e {
+    position: absolute;
+    left: 0px;
+    top: 400px;
+}
+
+.scroll1f {
+    position: absolute;
+    left: 0px;
+    top: 500px;
+}
+
+.marquee2 {
+    position: absolute;
+    top: 900px;
+
+    width: 600px;
+    height: 400px;
+    left: 210px;
+}
+
+.marquee2a {
+    position: absolute;
+    top: 0px;
+}
+
+.marquee2b {
+    position: absolute;
+    top: 0px;
+    left: 100px;
+}
+
+.marquee2c {
+    position: absolute;
+    top: 0px;
+    left: 200px;
+}
+
+.marquee2d {
+    position: absolute;
+    top: 0px;
+    left: 300px;
+}
+
+.marquee2e {
+    position: absolute;
+    top: 0px;
+    left: 400px;
+}
+
+.marquee2f {
+    position: absolute;
+    top: 0px;
+    left: 500px;
+}
