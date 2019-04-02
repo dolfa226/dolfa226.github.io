@@ -205,3 +205,12 @@ body {
     top: 50px;
     left: 750px;
 }
+
+#current {
+    background: #fff;
+    outline: 1px solid #000000;
+    border-radius: 50%;
+    height: 10px;
+    width: 10px;
+}
+

@@ -35,6 +35,10 @@ body {
     justify-content: space-evenly;
 }
 
+a:link {
+    text-decoration: none;
+}
+
 .circle {
     height: 10px;
     width: 10px;
@@ -50,5 +54,6 @@ body {
     height: 10px;
     width: 10px;
 }
+
 
 
