@@ -55,5 +55,7 @@ a:link {
     width: 10px;
 }
 
-
+a:visited {
+    color: gray;
+}
 
